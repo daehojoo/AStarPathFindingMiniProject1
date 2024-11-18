@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cfee890f56a338408ee5a326048f66f, type: 3}
+  m_Name: "\uD574\uC801\uB370\uC774\uD130"
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: c53746a6d1e8cc74aad58b1a777f1be1, type: 3}
+  attackMotion: {fileID: 5772314853530355862, guid: ec9035e62f5478d40a41b1de53d5c87e, type: 3}
+  unitName: "\uD574\uC801"
+  health: 50
+  attackPower: 8
+  shild: 0
+  attackSpeed: 2
+  moveSpeed: 4
+  population: 1
+  gold: 50
+  makeTime: 100
+  unitOrBuilding: 0
+  controllableType: 0
+  unitType: 0
